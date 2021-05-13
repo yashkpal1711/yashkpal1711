@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [YASH KUMAR PAL!]<br/>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm YASH KUMAR PAL <br/>
 ## Little about myself <img align="right" alt="Octocat" height="250px" src="yashk.png"> 
 
 <!-- Basic Introduction -->
